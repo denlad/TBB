@@ -1,0 +1,9 @@
+C:\Users\Denis\Desktop\Новый текстовый документ (3).txt|новый текстовый документ (3).txt
+C:\Users\Denis\test.txt|test.txt
+C:\Users\Denis\AppData\Roaming\Microsoft\Windows\Recent\Новый текстовый документ (3).txt.lnk|новый текстовый документ (3).txt.lnk
+C:\Users\Denis\test1.txt|test1.txt
+C:\$RECYCLE.BIN\S-1-5-21-3420665336-1950034306-2640542054-1000\$I2PCO6B.txt|$i2pco6b.txt
+C:\$RECYCLE.BIN\S-1-5-21-3420665336-1950034306-2640542054-1000\$R2PCO6B.txt|$r2pco6b.txt
+C:\Users\Denis\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask10_28_17_58_58_4347.txt|oneconnect.discoverynotificationtask10_28_17_58_58_4347.txt
+C:\Users\Denis\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask10_28_17_58_58_4347.txt.~tmp|oneconnect.discoverynotificationtask10_28_17_58_58_4347.txt.~tmp
+C:\Users\Denis\AppData\Local\Packages\Microsoft.OneConnect_8wekyb3d8bbwe\LocalState\DiagOutputDir\OneConnect.DiscoveryNotificationTask10_28_17_58_58_4347.txt~RF681f4.TMP|oneconnect.discoverynotificationtask10_28_17_58_58_4347.txt~rf681f4.tmp
